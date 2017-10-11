@@ -17,8 +17,8 @@ title: Things Project
 email: hatiolab@hatiolab.com
 description: > # this means to ignore newlines until "baseurl:"
   프로젝트 관리 방법에 대한 문서
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/things-project" # the subpath of your site, e.g. /blog
+url: "http://hatiolab.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  hatiolab
 
 # Build settings
